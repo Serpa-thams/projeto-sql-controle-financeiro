@@ -1,4 +1,7 @@
-# Projeto SQL - Controle Financeiro
+# 💰 Projeto SQL - Controle Financeiro
+
+Projeto desenvolvido com foco na estruturação e análise de dados financeiros, simulando a migração de planilhas para banco de dados relacional.
+
 
 ## 📌 Objetivo
 Este projeto foi desenvolvido com o objetivo de simular a estruturação de dados financeiros de um ambiente real de trabalho, originalmente organizada em planilhas, utilizando banco de dados relacional com SQL.
